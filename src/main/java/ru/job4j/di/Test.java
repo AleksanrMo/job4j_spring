@@ -11,5 +11,6 @@ public class Test {
             ui.getInput("Введите свое имя:");
             ui.print();
         }
+
     }
 
